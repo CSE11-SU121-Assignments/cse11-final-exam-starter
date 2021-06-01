@@ -2,7 +2,7 @@
 
 ### Release: 8am Wednesday June 9, 2021
 
-### Due: 8am Friday June 11, 2021
+### Due: 11:59pm Friday June 11, 2021
 
 This page details a **take-home exam** that you will complete over the next few days. You can't communicate with anyone about the content of the assignment until you receive your grade. The course staff will not give debugging advice or answer questions about the problems. If you have technical trouble creating a screencast (detailed below) feel free to reach out for assistance.
 
