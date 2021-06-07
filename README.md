@@ -156,3 +156,13 @@ explanation is here:
 [https://drive.google.com/open?id=1E-TcVXSg9BI4MnWoVU9_BbcRJsu8ZhCf](https://drive.google.com/open?id=1E-TcVXSg9BI4MnWoVU9_BbcRJsu8ZhCf)
 
 PA5 has a tutorial for creating a screencast like this [https://github.com/CSE11-SP21-Assignments/cse11-sp21-pa5-starter](https://github.com/CSE11-SP21-Assignments/cse11-sp21-pa5-starter).
+
+Here are some notes from the graders on how to improve your videos:
+
+- Make sure to use a picture ID, either a driver's license or passport that has a picture of you. If you do not provide a picture ID, you will get a 0 on the exam until prove to us it was you who did the video.
+- Make sure your picture ID and face are visible at the same time for three or four seconds. We must be able to pause the video and verify it's you. Again, if we can't verify it's you, you will get a 0 on the exam until prove to us it was you who did the video. Make sure to fill up the screen as much as possible with your face and picture id (i.e. don't stand far away from your camera).
+- When you start recording your video, start with screen share off and camera on and show your picture ID and face (close-up!!). Then you can enable screen share (and disable camera) and walk through your code.
+- Video must have sound! While highlighting your code, also make sure to explain the code. We must hear you explain it!
+- Once you enable screen share, make sure to leave it on the entire time while explaining your code.
+- Do not explain every test case! Only explain what you are explicitly told in the write-up.
+- Keep your videos under 5 minutes. We will penalize all students who go over 5 minutes. To ensure you stay under 5 minutes, make sure to only explain the test cases that the write-up says you should. Do not explain extra code that is not requested by the write-up.
