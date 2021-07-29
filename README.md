@@ -75,8 +75,7 @@ List<ImageData> filter(List<ImageData> ids);
 
 /**
  * Returns:
- * - A new list
- * - Containing the first n ImageData in the list:
+ * - A new list containing the first n ImageData in the list:
  *    - in descending order according to the comparator
  *    - that match this query
  * - If there are fewer than n matches, returns just a list of those that match
