@@ -23,7 +23,7 @@ Submission checklist:
 
 ## Task 1
 
-In `ClosestPoints.java`, write a class called `ClosestPoints` with a `main` method. The `main` method should expect a single command-line  argument that is the path to a file where each line contains two integers separated by a space. The program should interpret those integers as points, with an x coordinate followed by a y coordinate. The program should print the two points that are _closest_ to one another. You can assume there will be at least two lines in the file, and there is no upper limit on the number of lines in the file. You can also assume that the file given on the command line exists and has the given format (you don't have to check for nonexistent files or badly-formatted numbers, etc).
+In `ClosestPoints.java`, write a class called `ClosestPoints` with a `main` method. The `main` method should expect a single command-line argument that is the path to a file. Each line of the file contains two integers separated by a space. The program should interpret those integers as points, with an x coordinate followed by a y coordinate. The program should print the two points that are _closest_ to one another. You can assume there will be at least two lines in the file, and there is no upper limit on the number of lines in the file. You can also assume that the file given on the command line exists and has the given format (you don't have to check for nonexistent files or badly-formatted numbers, etc).
 
 Closeness is defined by the definition of `distance` we've used previously for `Point`s; you might find previous code from lecture that defines the `Point` class useful (but you don't have to use it). Add any additional classes and methods you need to help you complete the program.
 
