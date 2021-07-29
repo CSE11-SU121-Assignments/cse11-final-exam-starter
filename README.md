@@ -19,7 +19,7 @@ Submission checklist:
 
 - `[ ]` `ClosestPoints.java`
 - `[ ]` `ExamplesSearch.java` containing modified `ImageQuery` interface and implementations for several methods
-- `[ ]` Video screencast of tracing through a test for the `filter` method submitted to this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSePnW9JVfpgnD_78fZd7Km2lqPgiATQGiWNVv0RZXSU8l1Zvw/viewform)
+- `[ ]` Video screencast of tracing through a test for the `filter` method submitted to this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe9VI2-Zy_O9vK3mw3tYqXEuVj6kpJgXFgV7QPGijwvaDKztw/viewform?usp=sf_link)
 
 ## Task 1
 
