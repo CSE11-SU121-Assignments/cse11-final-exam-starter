@@ -12,8 +12,8 @@ The starter code for this exam can be found in this repository
 
 You may find some of the following resources particularly useful:
 
-- [PA7 starter code for reading files](https://github.com/CSE11-SP21-Assignments/cse11-sp21-pa7-starter)
-- [PA8 starter code for ```Point``` class with a ```distance``` method](https://github.com/CSE11-SP21-Assignments/cse11-sp21-pa8-starter)
+- [PA7 starter code for reading files](https://github.com/CSE11-SU121-Assignments/cse11-pa7-starter)
+- [PA8 starter code for ```Point``` class with a ```distance``` method](https://github.com/CSE11-SU121-Assignments/cse11-pa8-starter)
 
 Submission checklist:
 
