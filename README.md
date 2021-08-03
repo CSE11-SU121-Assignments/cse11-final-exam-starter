@@ -1,8 +1,8 @@
 # Final Exam
 
-### Release: 12am Friday July 30, 2021
+### Release: 12am Friday September 3, 2021
 
-### Due: 11:59pm Saturday July 31, 2021
+### Due: 4:00pm Saturday September 4, 2021
 
 This page details a **take-home exam** that you will complete over the next few days. You can't communicate with anyone about the content of the assignment until you receive your grade. The course staff will not give debugging advice or answer questions about the problems. If you have technical trouble creating a screencast (detailed below) feel free to reach out for assistance.
 
@@ -12,8 +12,8 @@ The starter code for this exam can be found in this repository
 
 You may find some of the following resources particularly useful:
 
-- [PA7 starter code for reading files](https://github.com/CSE11-SU121-Assignments/cse11-pa7-starter)
-- [PA8 starter code for ```Point``` class with a ```distance``` method](https://github.com/CSE11-SU121-Assignments/cse11-pa8-starter)
+- [PA7 starter code for reading files](https://github.com/CSE11-SU21-Assignments/cse11-pa7-starter)
+- [PA8 starter code for ```Point``` class with a ```distance``` method](https://github.com/CSE11-SU21-Assignments/cse11-pa8-starter)
 
 Submission checklist:
 
