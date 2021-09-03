@@ -154,7 +154,7 @@ explanation is here:
 
 [https://drive.google.com/open?id=1E-TcVXSg9BI4MnWoVU9_BbcRJsu8ZhCf](https://drive.google.com/open?id=1E-TcVXSg9BI4MnWoVU9_BbcRJsu8ZhCf)
 
-PA5 has a tutorial for creating a screencast like this [https://github.com/CSE11-SP21-Assignments/cse11-sp21-pa5-starter](https://github.com/CSE11-SU21-Assignments/cse11-pa5-starter).
+PA5 has a tutorial for creating a screencast like this [https://github.com/CSE11-SU21-Assignments/cse11-pa5-starter](https://github.com/CSE11-SU21-Assignments/cse11-pa5-starter).
 
 Here are some notes from the graders on how to improve your videos:
 
